@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ryan/Pictures/Wallpapers/BladeRunner2049Crop.png",
+    "alpha": "100",
+    "special": {
+        "background": "#180d13",
+        "foreground": "#b3beda",
+        "cursor": "#b3beda"
+    },
+    "colors": {
+        "color0": "#180d13",
+        "color1": "#942430",
+        "color2": "#B0434E",
+        "color3": "#375C9E",
+        "color4": "#646EA8",
+        "color5": "#895E9D",
+        "color6": "#7187B7",
+        "color7": "#b3beda",
+        "color8": "#7d8598",
+        "color9": "#942430",
+        "color10": "#B0434E",
+        "color11": "#375C9E",
+        "color12": "#646EA8",
+        "color13": "#895E9D",
+        "color14": "#7187B7",
+        "color15": "#b3beda"
+    }
+}
