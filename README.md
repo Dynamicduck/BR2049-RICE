@@ -1,5 +1,5 @@
 # BR2049-RICE
-Dot files for my BR2049 RICE (Manjaro Linux, BSPWM, sxhkd, Compton, Pywal, Polybar, Rofi, Spicetify).
+Dot files for my BR2049 RICE (Manjaro Linux, BSPWM, sxhkd, Compton, Pywal, Polybar, Rofi, Spicetify + Dribbblish).
 
 
 <b>Artwork<b>: https://kuciara.com/project/bladerunner<br>
