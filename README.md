@@ -3,6 +3,7 @@ Dot files for my BR2049 RICE (Manjaro Linux, BSPWM, sxhkd, Compton, Pywal, Polyb
 
 
 <b>Artwork</b>: https://kuciara.com/project/bladerunner<br>
+<b>Manjaro</b>: https://manjaro.org/<br>
 <b>BSPWM</b>: https://github.com/baskerville/bspwm<br>
 <b>sxhkd</b>: https://github.com/baskerville/sxhkd<br>
 <b>Compton</b>: https://github.com/chjj/compton<br>
